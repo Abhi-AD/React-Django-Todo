@@ -5,6 +5,7 @@ This is a simple Todo application built off Django (including the Django REST Fr
 ## Requirements
 * Python
 * React
+* PostgreSQL
 
 ## Getting started
 1. Clone the project to your machine ```[git clone https://github.com/Abhi-AD/React-Django-Todo]```
@@ -28,4 +29,4 @@ You will need two terminals pointed to the todo_frontend and todo_backend direct
 
 ## Creator Credit
 
-This demo app was originally built for a scotch.io (acquired in 2020 by DigitalOcean) article by [Jordan Irabor](https://github.com/Abhi-AD/React-Django-Todo)
+This demo app was originally built for a scotch.io (acquired in 2024 by DigitalOcean) article by [Abhishek Dangi](https://github.com/Abhi-AD/React-Django-Todo)
