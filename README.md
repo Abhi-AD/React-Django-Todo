@@ -1,5 +1,4 @@
 ## Introduction
-
 This is a simple Todo application built off Django (including the Django REST Framework for API CRUD operations) and React. For a complete walkthrough, see [Build a To-Do application Using Django and React]
 
 ## Requirements
